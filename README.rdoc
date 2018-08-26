@@ -1,6 +1,6 @@
 = BigBlueButton on Rails
 
-{BigBlueButton}[http://bigbluebutton.org] integration for Ruby on Rails 4. (For Rails <= 3.2, see versions <= 1.4.0.)
+ {BigBlueButton}[http://bigbluebutton.org] integration for Ruby on Rails 4. (For Rails <= 3.2, see versions <= 1.4.0.)
 
 Features:
 * Allows multiple servers and multiple conference rooms.
